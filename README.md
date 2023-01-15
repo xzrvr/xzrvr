@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzrvr&label=Profile%20views&color=a600ff&style=flat-square" alt="xzrvr" /> </p>
 
-- currently working on a website: [xzrvr.pages.dev](xzrvr.pages.dev)
-- used to work on discord bot: xzrvr.bot
+- currently working on a website
+- used to work on discord bot
 - most my repos are private
 
 <a href="https://www.buymeacoffee.com/xzrvr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="buy me a coffee :]" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
