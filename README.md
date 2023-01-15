@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzrvr&label=Profile%20views&color=a600ff&style=flat-square" alt="xzrvr" /> </p>
 
-- currently working on a website: [site.xzrvr](xzrvr.pages.dev)
+- currently working on a website: [xzrvr.pages.dev](xzrvr.pages.dev)
 - used to work on discord bot: xzrvr.bot
 - most my repos are private
 
