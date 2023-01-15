@@ -1,7 +1,7 @@
 <h1 align="center">hi! am xzrvr :]</h1>
 <h3 align="center">professioanal dumbass</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzrvr&label=Profile%20views&color=a600ff&style=flat-square" alt="xzrvr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzrvr&label=profile%20views&color=a600ff&style=for-the-badge" alt="xzrvr" /> </p>
 
 - currently working on a website
 - used to work on discord bot
