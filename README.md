@@ -9,7 +9,7 @@
 
 <h3 align="left">amogus sussy balls :3</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/xzrvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/xzrvr/xzrvr/main/images/youtube.png" alt="xzrvr" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/xzrvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/xzrvr/xzrvr/main/images/youtube.png" alt="xzrvr" height="30" width="35" /></a>
 <a href="https://discord.gg/qSBy8NrOqX" target="blank"><img align="center" src="https://raw.githubusercontent.com/xzrvr/xzrvr/main/images/discord.png" alt="qSBy8NrOqX" height="25" width="30" /></a>
 </p>
 
